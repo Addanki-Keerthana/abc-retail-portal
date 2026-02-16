@@ -16,7 +16,7 @@ A simple retail portal built with Java (Servlets/JSP) packaged as a WAR and depl
 
 ## 🛠 Tech Stack
 - Java 8, Maven (WAR)
-- JSP/Servlets
+- JSP / Servlets
 - MySQL 8
 - Docker + Docker Compose
 - Tomcat 9
