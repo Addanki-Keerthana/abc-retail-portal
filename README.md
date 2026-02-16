@@ -1,4 +1,5 @@
 # ABC Technologies - Retail Portal (Java + MySQL + Docker Compose)
+[![Java CI](https://github.com/Addanki-Keerthana/abc-retail-portal/actions/workflows/ci.yml/badge.svg)](https://github.com/Addanki-Keerthana/abc-retail-portal/actions/workflows/ci.yml)
 
 A simple retail portal built with Java (Servlets/JSP) packaged as a WAR and deployed on Tomcat, with MySQL for persistent storage.
 
