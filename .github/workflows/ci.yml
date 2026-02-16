@@ -19,3 +19,6 @@ jobs:
 
       - name: Build + Test
         run: mvn -B clean test package
+        
+      - name: Build Docker image
+        run: docker build -t abc-retail-portal:ci .
