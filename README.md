@@ -17,10 +17,12 @@ A simple retail portal built with Java (Servlets/JSP) packaged as a WAR and depl
 - Tomcat 9
 
 ## Run Locally (Docker)
+
 ```bash
 mvn clean package
-docker compose up --build
+docker compose up --build ```
 
 ## Screenshots
+```bash
 ![Home](screenshots/home.png)
 ![List](screenshots/list.png)
