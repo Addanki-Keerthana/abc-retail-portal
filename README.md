@@ -20,3 +20,7 @@ A simple retail portal built with Java (Servlets/JSP) packaged as a WAR and depl
 ```bash
 mvn clean package
 docker compose up --build
+
+## Screenshots
+![Home](screenshots/home.png)
+![List](screenshots/list.png)
