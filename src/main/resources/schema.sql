@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS retaildb;
+USE retaildb;
+
+CREATE TABLE IF NOT EXISTS products (
+  id INT PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  description VARCHAR(255) NOT NULL,
+  price INT NOT NULL
+);

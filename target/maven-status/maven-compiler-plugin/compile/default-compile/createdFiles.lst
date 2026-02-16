@@ -1,0 +1,8 @@
+com/abc/servlets/EditProductServlet.class
+com/abc/dao/ProductDAO.class
+com/abc/servlets/UpdateProductServlet.class
+com/abc/model/Product.class
+com/abc/db/DB.class
+com/abc/servlets/ListProductsServlet.class
+com/abc/servlets/AddProductServlet.class
+com/abc/servlets/DeleteProductServlet.class
